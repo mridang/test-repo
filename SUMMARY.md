@@ -2,8 +2,9 @@
 
 * [Initial page](README.md)
 * [Mridang is a cock](mridang-is-a-cock.md)
+* [Valter is a dick](valter-is-a-dick.md)
 
 ## Magento
 
-* [Untitled](maeb/untitled.md)
+* [Untitled](magento/untitled.md)
 
