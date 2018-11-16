@@ -12,6 +12,18 @@ $ give me super-powers
 Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
+{% tabs %}
+{% tab title="First Tab" %}
+fsffsf
+{% endtab %}
+
+{% tab title="Second Tab" %}
+wooga
+{% endtab %}
+{% endtabs %}
+
+
+
 Once you're strong enough, save the world:
 
 ```text
