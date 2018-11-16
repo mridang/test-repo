@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 * [Faq page](untitled.md)
-* [Mridang is a cock](mridang-is-a-cock.md)
+* [Mage FAQ](mridang-is-a-cock.md)
 * [Untitled](untitled-1.md)
 
 ## Magento
