@@ -2,6 +2,10 @@
 
 The extension can be configured by navigating to Stores &gt; Configuration &gt; Services &gt; Nosto.
 
+{% hint style="warning" %}
+ssgsssggsgs ption determines which of the Magento image types is to be used for the product images in Nosto. By default, it is the "Base Imag
+{% endhint %}
+
 ### Image Options
 
 This option determines which of the Magento image types is to be used for the product images in Nosto. By default, it is the "Base Image".
