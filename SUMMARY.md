@@ -1,13 +1,33 @@
-# Table of contents
-
-* [Initial page](README.md)
-* [Faq page](untitled.md)
-* [Mage FAQ](mridang-is-a-cock.md)
-* [Untitled](untitled-1.md)
-
-## Magento
-
-* [Valter is a dick](magento/valter-is-a-dick.md)
-* [Changelog page](magento/changelog-page.md)
-* [Untitled](magento/untitled.md)
-
+* [Installing](Installing)
+* [Disconnecting](Disconnecting-Nosto-From-Store-Front)
+* [Getting Started](Getting-Started)
+* [Configuring](Configuring)
+* Guides
+  * [Varnish & Full-Page Caches](Varnish-and-Full-Page-Caches)
+  * [Advanced User Guide](Advanced-User-Guide)
+  * [Managing Blocks](Managing-Blocks)
+  * [Overriding or Extending Functionalities](Overriding-or-extending-functionalities)
+    * [Overriding Product Data](Overriding-Product-Data)
+      * [Excluding Products](Excluding-Products)
+      * [Customising Pricing](Customising-Pricing)
+      * [Resizing Images](Resizing-Images)
+    * [Overriding Customer Data](Overriding-Customer-Data)
+    * [Overriding Line Item Data](Overriding-Line-Item-data)
+  * [Bulk Product Updates](Bulk-Product-Updates) 
+  * [Console Commands](Console-Commands)
+* Features
+  * [Variations (Configurable Products)](Variations-(Configurable-Products))
+  * [Add to Cart](Add-to-Cart)
+  * [Indexer](Indexer)
+  * [Customer Group Pricing](Customer-Group-Pricing)
+  * [Supplier Cost & Inventory Level](Supplier-Cost-&-Inventory-Level)
+  * [Restore Cart Link](Restore-Cart-Link)
+  * [Ratings & Reviews](Ratings-&-Reviews)
+  * [Multi Currency (Exchange Rates)](Multi-Currency-(Exchange-Rates))
+  * [Marketing permission and GDPR compatibility](Marketing-permission-and-GDPR-compatibility)
+  * [Catalog Price Rules](Catalog-Price-Rules)
+* Integrations
+  * [Using Yotpo](Using-Yotpo)
+  * [Using Klarna](Using-Klarna)
+* [FAQ](FAQ)
+* [Developing & Contributing](Developing)
